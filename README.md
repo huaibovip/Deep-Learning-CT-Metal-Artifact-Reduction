@@ -58,3 +58,7 @@
 | Mamba or RWKV: Exploring High-Quality and High-Efficiency Segment Anything Model | [![Star](https://img.shields.io/github/stars/HarborYuan/ovsam.svg?style=social&label=Star)](https://github.com/HarborYuan/ovsam) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.19369) |
 | BSBP-RWKV: Background Suppression with Boundary Preservation for Efficient Medical Image Segmentation | N/A                                                          | [LINK](https://openreview.net/forum?id=ULD5RCk0oo)           | 
 -->
+
+## Acknowledgment
+[Awesome CT Reconstruction from Incomplete projection data](https://github.com/zjk1988/Deep-Learning-CT-Reconstruction-from-Incomplete-Projection-Data)
+
